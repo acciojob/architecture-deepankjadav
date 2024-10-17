@@ -1,1 +1,13 @@
 /*  your css code here. If applicable */
+.image{
+	max-width: 200px;
+}
+.text{
+	max-width: 600px;
+}
+table{
+	border: 1px solid black;
+}
+tr,td{
+	border: 1px solid black;
+}
